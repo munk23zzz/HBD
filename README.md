@@ -40,7 +40,7 @@ Ubah isi paragraf `<p>...</p>` sesuai ucapan yang kamu inginkan.
 Di `index.html`, cari:
 ```html
 <!-- GANTI TANDA TANGAN / PENGIRIM DI BAWAH INI -->
-<span class="message-sign">— Dengan cinta 💚</span>
+<span class="message-sign">— </span>
 ```
 
 ---
